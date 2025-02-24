@@ -1,0 +1,10 @@
+This is the stock api project 
+it is used to fetch the data from finnhub api
+
+Use below mentioned routes to fetch the data
+
+getAllData : /api/finn/    
+
+getCompanyDetails :   /api/finn/company/symbol
+
+getStock :  /api/finn/stock/symbol
