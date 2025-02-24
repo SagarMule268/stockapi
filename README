@@ -5,6 +5,6 @@ Use below mentioned routes to fetch the data
 
 getAllData : /api/finn/    
 
-getCompanyDetails :   /api/finn/company/symbol
+getCompanyDetails :   /api/finn/company/${symbol}
 
-getStock :  /api/finn/stock/symbol
+getStock :  /api/finn/stock/${symbol}
